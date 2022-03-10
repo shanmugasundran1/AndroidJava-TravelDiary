@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1029926413443",
+    "project_id": "idiary-d715f",
+    "storage_bucket": "idiary-d715f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029926413443:android:2d79848229e6413887e7b6",
+        "android_client_info": {
+          "package_name": "com.example.idiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029926413443-l3amkttt2lm0fpi8239c5ui5sdprvefv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.idiary",
+            "certificate_hash": "afc0a448182f0e7ddfe6e120faeac0eb6c9e9219"
+          }
+        },
+        {
+          "client_id": "1029926413443-dufsm51gep14movgsss7nq41a92eas5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwYZsTjP1L7UxQG0r8fODXzdSDH3jZjHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029926413443-dufsm51gep14movgsss7nq41a92eas5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
